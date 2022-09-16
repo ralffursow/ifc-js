@@ -2,4 +2,4 @@
 
 Testen der IFC.js Bibliothek
 
-Dokumentation von [IFC.js](https://ifcjs.github.io/info/docs/Introduction/)
+[Dokumentation von IFC.js](https://ifcjs.github.io/info/docs/Introduction/)
