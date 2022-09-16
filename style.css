@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow: hidden;
+}
+
+#three-canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#file-input{
+    z-index: 1;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
